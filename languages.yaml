@@ -18,6 +18,11 @@ ru:
     ICON: 'Иконка'
     LINK: 'Ссылка'
     TOOLTIP: 'Подсказка'
+    EXTERNAL:
+      LABEL: 'Внешняя ссылка'
+      HINT: 'Открывать ссылку в новом окне'
+    YES: 'Да'
+    NO: 'Нет'
 
 uk:
   PLUGIN_QUICK_TRAY_LINKS:
